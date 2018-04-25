@@ -1,2 +1,2 @@
-# personal-profile-page
+# Personal Profile Page
 FEWD Project 1
